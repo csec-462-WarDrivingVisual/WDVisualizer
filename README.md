@@ -4,7 +4,7 @@ WDVisualizer is a Python based Wardriving Visualizer Program that allows you to 
 
 ## Getting Started
 
-Simply install the prerequisites for the program. In order to run the program, put the .pcap you wish to analyze in a folder with the PcapParser.py and run it. Type it in, do not press enter or space. Once you do that, you should have a file called output.txt and you can then run SuperParserV2.py for your output.
+Simply install the prerequisites for the program. In order to run the program, put the .pcap you wish to analyze in a folder with the PcapParser.py and run it. Type it in, do not press enter or space. Once you do that, you should have a file called output.txt and you can then run SuperParserV2.py for your output. We have provided you with a sample output.txt.
 
 ### Prerequisites
 
